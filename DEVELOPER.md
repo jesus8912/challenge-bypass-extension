@@ -18,5 +18,4 @@ challenge-bypass-extension
     └──📂 popup: The web app for the popup in the browser toolbar.
         └──📂 components: Contains all the React components.
         └──📂 styles: Contains all the style sheets which are shared among the React components.
-        └──📜 types.d.ts: Global Typescript declaration.
-```
+        └──📜 types.d.ts: Global Typescript declaration.```
